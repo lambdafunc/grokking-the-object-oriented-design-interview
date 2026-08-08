@@ -1,6 +1,6 @@
 <h1 align="center">Grokking the Object Oriented Design Interview</h1>
 
-I create this repository as extended version of [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview) course. I add `example-codes` part for better understanding.
+I create this repository as extended version of [Grokking the Object Oriented Design Interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview) course. I add `example-codes` part for better understanding.
 
 ### **Notes:**
 
@@ -8,6 +8,14 @@ I create this repository as extended version of [Grokking the Object Oriented De
 2. I use `Python` for coding demonstration.
 3. I try to write error free codes that's why in many class and function i just use `None` or `pass`
 4. For practice I left coding section empty of Facebook's `Extended Requirement` section.
+
+### **Object Diagrams:**
+
+- **[Comprehensive Object Diagram](object-diagram.puml)** - Complete UML class diagram covering all 8+ case studies
+- **[System Overview Diagram](system-overview-diagram.puml)** - High-level view of design patterns and system relationships
+- **[Documentation](OBJECT-DIAGRAM-DOCUMENTATION.md)** - Detailed explanation of all diagrams, patterns, and relationships
+
+View diagrams using [PlantUML Online Editor](http://www.plantuml.com/plantuml/uml/) or VS Code with PlantUML extension.
 
 <hr/>
 <h3 align="center">Object-Oriented Design and UML</h3>
@@ -67,7 +75,7 @@ I create this repository as extended version of [Grokking the Object Oriented De
 <h3 align="center">** Sources **</h3>
 <hr />
 <p align="center">
-    <b>Course Source: <b/></b><a href="https://www.educative.io/courses/grokking-the-object-oriented-design-interview"><b>Grokking the Object Oriented Design Interview</b></a>
+    <b>Course Source: <b/></b><a href="https://www.designgurus.io/course/grokking-the-object-oriented-design-interview"><b>Grokking the Object Oriented Design Interview</b></a>
     <br />
     <b>Banner Photo Source: <b/></b><a href="https://dribbble.com"><b>Dribbble</b></a>
 </p>
